@@ -3,7 +3,6 @@ lados y retorne 1, 2 o 3 según el triángulo sea equilátero, isósceles o esca
  */
 
 
-
 var c1 =  parseInt(prompt("escriba lado 1"));
 var c2 =   parseInt(prompt("escriba lados 2"));
 var c3 =  parseInt(prompt("escriba lado 3"));
